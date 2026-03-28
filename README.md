@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Victor Pena
 
-<!--
-**victorpena210/victorpena210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Java and Spring Boot developer building full-stack web applications with:
 
-Here are some ideas to get you started:
+- Java
+- Spring Boot
+- Spring Security
+- Thymeleaf
+- JPA / Hibernate
+- MySQL / H2
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Spring Help Desk** – role-based ticketing app with requester and agent workflows
+- **E-commerce Store (Java)** – MVC web app with authentication, product catalog, and cart
+- **Portfolio Website** – personal site showcasing projects and skills
+
+## Currently Working On
+- Improving my Spring Help Desk project
+- Building stronger backend and full-stack portfolio projects
+- Preparing for junior developer opportunities
+
+## Connect With Me
+- Portfolio: your portfolio link
+- GitHub: [victorpena210](https://github.com/victorpena210)
