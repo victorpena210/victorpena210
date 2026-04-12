@@ -16,7 +16,7 @@ I’m a Java and Spring Boot developer building full-stack web applications with
 - **Portfolio Website** – personal site showcasing projects and skills
 
 ## Currently Working On
-- Improving my Spring Help Desk project
+- PlazaPortal is a Spring Boot web application for managing office rentals in a multi-tenant plaza. It supports tenant accounts, role-based access (tenant, agent, admin), and features like registration, maintenance requests, and planned online rent payments via Stripe.
 - Building stronger backend and full-stack portfolio projects
 - Preparing for junior developer opportunities
 
