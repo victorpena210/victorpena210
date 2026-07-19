@@ -39,10 +39,7 @@ A production website created for a life-insurance business, featuring lead-gener
 
 **Built with:** HTML, CSS, JavaScript, Supabase, Netlify
 
-## Currently Building
 
-- **Obituary Tracker:** A Spring Boot and MySQL application for managing obituary sources, collected records, and collection-run history
-- Continuing to strengthen my projects with testing, deployment, documentation, and polished user interfaces
 
 ## Connect With Me
 
