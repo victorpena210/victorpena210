@@ -19,6 +19,12 @@ A full-stack tenant management portal for office rentals. It includes secure ten
 
 **Built with:** Java, Spring Boot, Spring Security, JPA/Hibernate, Thymeleaf, MySQL, Flyway, Stripe
 
+### [ShuttleFlow](https://github.com/victorpena210/shuttle-flow)
+
+A shuttle demand-planning dashboard created to solve a real workplace transportation challenge. It imports weekly employee schedules from CSV files and converts shift end times into date-specific, 15-minute pickup windows showing the pickup location, number of team members, and demand priority.
+
+**Built with:** Java 17, Spring Boot, Spring MVC, Thymeleaf, Apache Commons CSV, Maven
+
 ### [Spring Help Desk](https://github.com/victorpena210/spring-help-desk)
 
 A role-based ticketing application where requesters create and track support tickets while agents filter, assign, update, resolve, and reopen them through a separate workflow.
@@ -38,8 +44,6 @@ A production website created for a life-insurance business, featuring lead-gener
 **Live site:** [zachryinsurance.com](https://zachryinsurance.com)
 
 **Built with:** HTML, CSS, JavaScript, Supabase, Netlify
-
-
 
 ## Connect With Me
 
