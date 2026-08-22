@@ -18,7 +18,7 @@ A shuttle-operations platform created around a real employee-transportation work
 
 **Built with:** Java, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, Maven
 
-### SuiteFlow / PlazaPortal
+PlazaPortal
 
 A full-stack tenant-management portal for a commercial property. It includes secure tenant and admin accounts, lease and invoice workflows, maintenance requests, payment tracking, and database migrations.
 
